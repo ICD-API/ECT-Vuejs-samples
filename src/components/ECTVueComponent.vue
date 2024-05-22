@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Vue.js v3.4 + ECT v1.7</h1>
+    <h1>Vue.js v3.4 + ECT v1.7.1</h1>
     Type for starting search:
     <!-- input element used for typing the search  -->
     <input
