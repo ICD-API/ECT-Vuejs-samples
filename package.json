@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@whoicd/icd11ect": "1.7.0",
+    "@whoicd/icd11ect": "1.7.1",
     "vue": "^3.4.21"
   },
   "devDependencies": {
